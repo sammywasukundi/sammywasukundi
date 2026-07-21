@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e76a8&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="center">🚀 Web & Mobile Developer | 🧠 AI & ML Enthusiast | 🛡️ Midnight Ambassador</h3>
+<h3 align="center">🚀 Web & Mobile Developer | 🧠 AI & ML Enthusiast | 🛡️ Blockchain Dev</h3>
 
 <p align="center">
   <em>Welcome to my digital playground! I’m a passionate developer dedicated to building beautiful, functional, and privacy-first applications. When I'm not coding, I'm contributing to the future of blockchain and exploring the boundless possibilities of Artificial Intelligence.</em>
@@ -38,7 +38,7 @@ I love meeting fellow builders, open-source creators, and tech enthusiasts. Drop
 | **🐦 X / Twitter** | [<img src="https://img.shields.io/badge/X_Twitter-000000?style=flat-square&logo=x&logoColor=white" />](https://x.com/SammyMumbe12) |
 | **🔵 Facebook** | [<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />](https://www.facebook.com/share/1AmwSU5DuM/?mibextid=wwXIfr) |
 | **🎮 Discord** | `wwasukundi_82273` 👾 |
-** Mail:** `mumberewasukundisammy@gmail.com`
+|** Mail:** | `mumberewasukundisammy@gmail.com` |
 
 ---
 
