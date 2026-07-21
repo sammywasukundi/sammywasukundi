@@ -38,7 +38,7 @@ I love meeting fellow builders, open-source creators, and tech enthusiasts. Drop
 | **🐦 X / Twitter** | [<img src="https://img.shields.io/badge/X_Twitter-000000?style=flat-square&logo=x&logoColor=white" />](https://x.com/SammyMumbe12) |
 | **🔵 Facebook** | [<img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" />](https://www.facebook.com/share/1AmwSU5DuM/?mibextid=wwXIfr) |
 | **🎮 Discord** | `wwasukundi_82273` 👾 |
-|** Mail:** | `mumberewasukundisammy@gmail.com` |
+|**Mail** | `mumberewasukundisammy@gmail.com` |
 
 ---
 
